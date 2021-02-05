@@ -23,11 +23,11 @@ Run NPM i for the following dependencies:
 *  sequelize
   
   ### Usage
-  Use as a quick reference to find team information. 
+  Backend for Ecommerce Company.    
  
 
   ### Tests
-  Jest
+  Insomnia 
 
   ### Contributors
   Stefanie Tinsley
@@ -37,4 +37,3 @@ Run NPM i for the following dependencies:
   Email: stefaniectinsley@gmail.com
   GitHub: https://github.com/steftinsley
   
-  ![Screenshot](https://github.com/steftinsley/team-profile-generator/blob/main/src/screenshot_.JPG)
